@@ -23,7 +23,7 @@ for (int i = 1; i<= n; i++)
 }
 }
 
-printf("%d,count);
+printf("%d",count);
 
 return 0;
 }
